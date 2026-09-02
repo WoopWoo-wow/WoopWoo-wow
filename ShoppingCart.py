@@ -7,3 +7,4 @@ if askmore == "yes":
 
 cart.append(addanother)
 print(cart)
+print("Thank you for shopping with us!")
