@@ -28,10 +28,10 @@ const pinterestArt = [
   },
   {
     id: 4,
-    title: 'Botanical Line Study',
+    title: 'Dont use gen ai on arts its bad',
     price: 35.00,
     board: 'Prints',
-    description: 'Minimalist plant sketch on handmade paper.',
+    description: 'human art is far more better than generative art.',
     image: 'https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=400&q=80',
   },
 ];
