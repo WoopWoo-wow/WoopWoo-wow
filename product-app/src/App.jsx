@@ -29,10 +29,10 @@ const pinterestArt = [
   {
     id: 4,
     title: 'Dont use gen ai on arts its bad',
-    price: 35.00,
+    price: 67.00,
     board: 'Prints',
     description: 'human art is far more better than generative art.',
-    image: 'https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=400&q=80',
+    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE6FGfg5i6BCwjWJP24gslAPWvej25GMeVWwehU9G2xg&s=10',
   },
 ];
 
